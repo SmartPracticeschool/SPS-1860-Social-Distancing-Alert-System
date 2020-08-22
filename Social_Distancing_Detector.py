@@ -1,7 +1,5 @@
 """
-Created on Tue Aug 18 16:59:08 2020
-
-@author: Prasun
+Done
 """
 
 from packages import social_distancing_config as config
