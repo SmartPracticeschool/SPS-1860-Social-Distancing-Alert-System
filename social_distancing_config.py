@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 17 19:38:18 2020
-
-@author: paras
+Done
 """
 
 #BASIC PATH TO YOLO-DIR
