@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Aug 19 03:45:25 2020
-
-@author: Prasun
+Done
 """
 
 from packages import social_distancing_config as config
